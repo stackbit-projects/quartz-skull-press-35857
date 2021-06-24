@@ -50,7 +50,7 @@ const About = () => (
             <div>
               <h2>welcome to the chaos</h2>
               <p>
-               Quartz Skull press is a new indie publisher focused on promoting queer and gender
+               Quartz Skull press is a new indie publisher focused on promoting queer and genderqueer 
               </p>
             </div>
             <Art>
