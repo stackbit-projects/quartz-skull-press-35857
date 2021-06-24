@@ -56,8 +56,8 @@ const Footer = () => (
               <span>
                 Illustrations by
                 {` `}
-                <ExternalLink href="https://twitter.com/diana_valeanu">
-                  @diana_valeanu
+                <ExternalLink href="https://instagram.com/tornepages">
+                  k. torne
                 </ExternalLink>
               </span>
             </Copyright>
