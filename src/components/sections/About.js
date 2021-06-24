@@ -50,10 +50,7 @@ const About = () => (
             <div>
               <h2>welcome to the chaos</h2>
               <p>
-                Gatsby.js builds the fastest possible website. Instead of
-                waiting to generate pages when requested, pre-build pages and
-                lift them into a global cloud of servers — ready to be delivered
-                instantly to your users wherever they are.
+               Quartz Skull press is a new indie publisher focused on promoting queer and gender
               </p>
             </div>
             <Art>
