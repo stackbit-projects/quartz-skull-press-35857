@@ -50,7 +50,7 @@ const About = () => (
             <div>
               <h2>welcome to the chaos</h2>
               <p>
-               Quartz Skull press is a new indie publisher focused on promoting queer authors as well as female, genderqueer, genderfluid, agender, nonbinary, and transgender authors. 
+               Quartz Skull press is a new indie publisher focused on promoting queer authors as well as female, genderqueer, genderfluid, agender, nonbinary, and transgender authors. We love all things dark, deadly, and twisted. 
               </p>
             </div>
             <Art>
